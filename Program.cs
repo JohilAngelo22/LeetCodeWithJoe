@@ -6,7 +6,8 @@ namespace LeetCodeWithJoe
     {
         static void Main(string[] args)
         {
-            var jhjh = _01_TwoSums.TwoSum([3, 3], 6);
+            var TwoSum = _01_TwoSums.TwoSum([3, 3], 6);
+            var IsValid = _02_Valid_Parentheses.IsValid("[[[]");
         }
     }
 }
